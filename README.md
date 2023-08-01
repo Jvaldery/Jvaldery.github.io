@@ -1,2 +1,2 @@
-# Jvaldery.github.io
+# jvaldery.github.io
 Portfolio site
